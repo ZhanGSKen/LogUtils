@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LogView">
+        <attr name="tag" format="string" />
+        <attr name="level" format="integer" />
+        <attr name="lastcount" format="integer" />
+        <attr name="textColor" format="color" />
+        <attr name="textIsSelectable" format="boolean" />
+    </declare-styleable>
+</resources>
