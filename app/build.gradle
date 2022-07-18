@@ -10,7 +10,7 @@ android {
         targetSdkVersion 29
         versionCode 4
         //{版本型态控制号.增量号.调试号}
-        versionName "2.6.0"
+        versionName "2.6.1"
     }
     buildTypes {
         release {
