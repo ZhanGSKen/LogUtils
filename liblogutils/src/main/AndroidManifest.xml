@@ -3,6 +3,7 @@
     package="com.github.zhangsken.liblogutils">
   <application>
         <activity
+			android:resizeableActivity="true"
             android:name=".LogViewActivity"
             android:label="@string/logview_name" >
         </activity>
